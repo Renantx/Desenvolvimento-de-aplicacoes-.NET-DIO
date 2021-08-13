@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{23A4BB79-1C81-437A-89A8-B33F4BDDD888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{B9238E59-82C8-42BF-B2D4-CC6AEF772206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "..\CursoTest\CursoTest.csproj", "{DA76C325-D9D3-483E-A6FC-746C72B4031F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A4BB79-1C81-437A-89A8-B33F4BDDD888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A4BB79-1C81-437A-89A8-B33F4BDDD888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A4BB79-1C81-437A-89A8-B33F4BDDD888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A4BB79-1C81-437A-89A8-B33F4BDDD888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9238E59-82C8-42BF-B2D4-CC6AEF772206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9238E59-82C8-42BF-B2D4-CC6AEF772206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9238E59-82C8-42BF-B2D4-CC6AEF772206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9238E59-82C8-42BF-B2D4-CC6AEF772206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA76C325-D9D3-483E-A6FC-746C72B4031F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA76C325-D9D3-483E-A6FC-746C72B4031F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA76C325-D9D3-483E-A6FC-746C72B4031F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA76C325-D9D3-483E-A6FC-746C72B4031F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D56AAD-1986-4DD0-9BDD-3A485F7D3B3E}
+	EndGlobalSection
+EndGlobal
